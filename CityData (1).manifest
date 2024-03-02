@@ -1,0 +1,6 @@
+{
+"entries": [
+{"url":"s3://sid-city-data/CityData.csv", "mandatory":true},
+{"url":"s3://sid-city-data/CityData1.csv", "mandatory":true}
+]
+}
